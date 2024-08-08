@@ -1,0 +1,225 @@
+{C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CSR_address_decoder
+
+Top level modules:
+	CSR_address_decoder
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/riscv_tb.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/riscv_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscv_tb
+
+Top level modules:
+	riscv_tb
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/riscv_pipeline.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/riscv_pipeline.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscv_pipeline
+
+Top level modules:
+	riscv_pipeline
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/hazard_unit.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/hazard_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/adder.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/register.v} {1 {vlog -work work -stats=none {C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/controller.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/memory/data_mem.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/memory/data_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CSR
+
+Top level modules:
+	CSR
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/register.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/memory/inst_mem.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/memory/inst_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/forwarding_unit.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/controller/forwarding_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/mux2to1.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hazard_unit
+
+Top level modules:
+	hazard_unit
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/alu.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/mux4to1.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4to1
+
+Top level modules:
+	mux4to1
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscv_pipeline
+
+Top level modules:
+	riscv_pipeline
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscv_tb
+
+Top level modules:
+	riscv_tb
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/datapath.v} {1 {vlog -work work -stats=none {C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/imm_gen.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/imm_gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/reg_file.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/Codes/datapath/reg_file.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module trap_handler
+
+Top level modules:
+	trap_handler
+
+} {} {}} {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v} {1 {vlog -work work -stats=none {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}

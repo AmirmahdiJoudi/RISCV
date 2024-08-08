@@ -1,0 +1,245 @@
+# Compile of controller.v was successful.
+# Compile of forwarding_unit.v was successful.
+# Compile of hazard_unit.v was successful.
+# Compile of adder.v was successful.
+# Compile of alu.v was successful.
+# Compile of datapath.v was successful.
+# Compile of imm_gen.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of mux4to1.v was successful.
+# Compile of reg_file.v was successful.
+# Compile of register.v was successful.
+# Compile of data_mem.v was successful.
+# Compile of inst_mem.v was successful.
+# Compile of riscv_pipeline.v was successful.
+# Compile of riscv_tb.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.riscv_tb
+# vsim -gui work.riscv_tb 
+# Start time: 04:31:33 on Mar 31,2024
+# Loading work.riscv_tb
+# Loading work.riscv_pipeline
+# Loading work.datapath
+# Loading work.register
+# Loading work.adder
+# Loading work.mux2to1
+# Loading work.reg_file
+# Loading work.imm_gen
+# Loading work.mux4to1
+# Loading work.alu
+# Loading work.controller
+# Loading work.hazard_unit
+# Loading work.forwarding_unit
+# Loading work.inst_mem
+# Loading work.data_mem
+do {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/MODELSIM/wave.do}
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/HU/pc_en_hazard'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 17
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/handling_mode'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 40
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_reg_write'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 41
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_reg_set'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 42
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_reg_clear'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 43
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_add'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 44
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_wr_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 45
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/csr_rd_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 46
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/MIEN'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 47
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/MEIEN'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 48
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/MTIEN'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 49
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/MSIEN'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 50
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/CSR_Registers/register_file'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 51
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/ID_csr_dest_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 52
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/EXE_csr_dest_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 53
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/MEM_csr_dest_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 54
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/WB_csr_dest_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 55
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/csr_data_sel'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 56
+# (vsim-4077) Logging very large object: /riscv_tb/DM/mem
+# (vsim-4077) Logging very large object: /riscv_tb/IM/mem
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/DP/MEM_pre_exc'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 77
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/exceptionRaised'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 83
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/exceptionSrc'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 84
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/interruptRaised'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 85
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/machineTimerInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 86
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/machineSoftwareInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 87
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/machineExternalInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 88
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/MRET'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 89
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/csrOut'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 90
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_csr_write'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 91
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_add'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 92
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_data'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 93
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_add_src'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 94
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_data_pre_exc_src'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 95
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_data_pc_12_src'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 96
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_data_src'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 97
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_pc_en'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 98
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_flush'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 99
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_handler_PC_src'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 100
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/causeEN'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 101
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/causeDT'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 102
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/causeOut'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 103
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/trap_jump_add'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 104
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/p_state'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 105
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/CPU/trap_handler/n_state'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 106
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/machineTimerInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 116
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/machineSoftwareInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 117
+# ** UI-Msg: (vish-4014) No objects found matching '/riscv_tb/machineExternalInterrupt'.
+# Executing ONERROR command at macro C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\MODELSIM\wave.do line 118
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/MODELSIM/wave.do}
+do {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/MODELSIM/wave.do}
+# (vsim-4077) Logging very large object: /riscv_tb/DM/mem
+# (vsim-4077) Logging very large object: /riscv_tb/IM/mem
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/MODELSIM/wave.do}
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+# Compile of data_mem.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.data_mem
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+# Compile of datapath.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.datapath
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+# Compile of inst_mem.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.inst_mem
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+# Compile of datapath.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.datapath
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+# Compile of datapath.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.datapath
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-7) Failed to open readmem file "../memory/fibonacci.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/memory/data_mem.v(17)
+#    Time: 0 ps  Iteration: 0  Instance: /riscv_tb/DM
+# ** Note: $stop    : C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v(46)
+#    Time: 3520 ps  Iteration: 0  Instance: /riscv_tb
+# Break in Module riscv_tb at C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/riscv_tb.v line 46
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-noTrap/MODELSIM/wave.do}
+quit -sim
+# End time: 04:54:22 on Mar 31,2024, Elapsed time: 0:22:49
+# Errors: 0, Warnings: 2

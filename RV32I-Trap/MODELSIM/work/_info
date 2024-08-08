@@ -1,0 +1,427 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Amirmahdi/Electrical Engineering/MemariCA1
+vadder
+Z0 !s110 1711850840
+!i10b 1
+!s100 K;zzZ2cdhSD:C?BC91BEX1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgKcgjZg2hM5eFmBkkg<lC3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/MODELSIM
+Z4 w315520200
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v
+!i122 585
+L0 1 17
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1711850840.000000
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu
+Z9 !s110 1711850841
+!i10b 1
+!s100 0QNk?z:m3:WM_QF@7z<=G3
+R1
+I@fz5zg2Oz]Mdlk`PLk4gY1
+R2
+R3
+R4
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v
+!i122 586
+L0 1 59
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/alu.v|
+!i113 1
+R7
+R8
+vcontroller
+R0
+!i10b 1
+!s100 O<OHWP6XB2icbmY6IlMA51
+R1
+IYcfnmNkVN>?h`jzN8DVaF2
+R2
+R3
+w1711843167
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v
+!i122 582
+L0 1 131
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/controller.v|
+!i113 1
+R7
+R8
+vCSR
+R9
+!i10b 1
+!s100 >nEV=4mVNckgV4A<<khAU0
+R1
+IefM<jk6nPM@Vkc;`JCK310
+R2
+R3
+w1711836374
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v
+!i122 597
+L0 1 100
+R5
+r1
+!s85 0
+31
+Z10 !s108 1711850841.000000
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR.v|
+!i113 1
+R7
+R8
+n@c@s@r
+vCSR_address_decoder
+Z11 !s110 1711850842
+!i10b 1
+!s100 [fkGjO;[eVkA__W==YAIg2
+R1
+IAOlINZgmQ38SB?NIEYgb=0
+R2
+R3
+w1711587338
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v
+!i122 598
+Z12 L0 1 18
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/CSR_address_decoder.v|
+!i113 1
+R7
+R8
+n@c@s@r_address_decoder
+vdata_mem
+R9
+!i10b 1
+!s100 QEcbAJFDcIkE7AHD3hL^K3
+R1
+IALO6SRg1PG2CMVZ]U4jTe0
+R2
+R3
+w1711834105
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v
+!i122 593
+L0 1 33
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/data_mem.v|
+!i113 1
+R7
+R8
+vdatapath
+!s110 1711878842
+!i10b 1
+!s100 bOU14gG0kGe<Fb>61DcL52
+R1
+Ie0R64C^bJG4PF_QjKggQ@0
+R2
+R3
+w1711850954
+8C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\datapath.v
+FC:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\datapath.v
+!i122 601
+L0 1 681
+R5
+r1
+!s85 0
+31
+!s108 1711878842.000000
+!s107 C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\datapath.v|
+!i113 1
+R7
+R8
+vforwarding_unit
+R0
+!i10b 1
+!s100 Xc<3RTanSY_BFcUAPg11e3
+R1
+I9Z8_OU4XXZdInN>ikSd:S2
+R2
+R3
+R4
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v
+!i122 583
+L0 1 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/forwarding_unit.v|
+!i113 1
+R7
+R8
+vhazard_unit
+R0
+!i10b 1
+!s100 Z197V`O29^;;a?1ZD3G8e3
+R1
+IX<Xn6;Y0hE3EbbOI;<cIc1
+R2
+R3
+w1711384474
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v
+!i122 584
+L0 1 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/hazard_unit.v|
+!i113 1
+R7
+R8
+vimm_gen
+R9
+!i10b 1
+!s100 fz:f>1Q09;R?SmHAco>^<1
+R1
+IHX;e7Alo85Z@k;gEBbk9k3
+R2
+R3
+w1711593388
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v
+!i122 588
+L0 1 24
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/imm_gen.v|
+!i113 1
+R7
+R8
+vinst_mem
+R9
+!i10b 1
+!s100 UT:@Ai0WPU2o[g]KmfHaW2
+R1
+I7<8m8k<bTY1:hKjD23ioW2
+R2
+R3
+w1711848985
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v
+!i122 594
+R12
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/memory/inst_mem.v|
+!i113 1
+R7
+R8
+vmux2to1
+R9
+!i10b 1
+!s100 R2Q:`UAAP2:W3]mEA1Lg[2
+R1
+I64D4o:XbHB>9C3DC9XmBO3
+R2
+R3
+R4
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v
+!i122 589
+L0 1 16
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux2to1.v|
+!i113 1
+R7
+R8
+vmux4to1
+R9
+!i10b 1
+!s100 j]4[KPhkW@H2J>PzHa^L81
+R1
+IXJl>HHoc_k4n:iJ1lPJk50
+R2
+R3
+R4
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v
+!i122 590
+L0 1 22
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/mux4to1.v|
+!i113 1
+R7
+R8
+vreg_file
+R9
+!i10b 1
+!s100 lMj47lzZO3J==BU:CzaDe2
+R1
+ImE;jc[`5FKMC;`24^h?O<2
+R2
+R3
+R4
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v
+!i122 591
+L0 1 32
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/datapath/reg_file.v|
+!i113 1
+R7
+R8
+vregister
+R9
+!i10b 1
+!s100 F_Q`gB?H@SiQQYc4D6fUN2
+R1
+I?fo9f_7FAlbN@`]HiVjSW3
+R2
+R3
+R4
+8C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\register.v
+FC:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\register.v
+!i122 592
+L0 1 26
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Amirmahdi\Electrical Engineering\My Thesis\Processors\RISC-V\RV32I-Trap\datapath\register.v|
+!i113 1
+R7
+R8
+vriscv_pipeline
+R9
+!i10b 1
+!s100 ^H7L3AhCXHH=b3TAYW`gD2
+R1
+IdSYiFl9<WI5bR@Tnl;YTl1
+R2
+R3
+w1711597382
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v
+!i122 595
+L0 1 284
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_pipeline.v|
+!i113 1
+R7
+R8
+vriscv_tb
+!s110 1711879422
+!i10b 1
+!s100 TkoY[^SC>B_RRi<KIJ]:C3
+R1
+I4;>UO]Pl:a1G8_JVSLR_[3
+R2
+R3
+w1711879417
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v
+!i122 602
+L0 1 68
+R5
+r1
+!s85 0
+31
+!s108 1711879422.000000
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/riscv_tb.v|
+!i113 1
+R7
+R8
+vtrap_handler
+R11
+!i10b 1
+!s100 iE30QUIiZbl_ReS6o7kY>0
+R1
+IFXDf09da:Ch4l>V9nIUQf0
+R2
+R3
+w1711830327
+8C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v
+FC:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v
+!i122 599
+L0 11 154
+R5
+r1
+!s85 0
+31
+!s108 1711850842.000000
+!s107 C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Amirmahdi/Electrical Engineering/My Thesis/Processors/RISC-V/RV32I-Trap/controller/trap_handler.v|
+!i113 1
+R7
+R8
