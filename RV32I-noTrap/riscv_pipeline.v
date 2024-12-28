@@ -7,7 +7,8 @@ module riscv_pipeline (
     input [31:0] inst,
 
     output mem_read,
-    output mem_write,       
+    output mem_write,     
+    output [3:0] data_out_mask,   
     input  [31:0] data_in,
     output [31:0] data_adr,
     output [31:0] data_out
@@ -58,7 +59,7 @@ module riscv_pipeline (
     wire reg_write;
     wire mem_read_i; 
     wire mem_write_i;
-    wire mem_write_bh;
+  //  wire mem_write_bh;
     wire bhu;
     wire IF_flush;
 
@@ -122,7 +123,8 @@ module riscv_pipeline (
 
     .mem_read_o(mem_read), 
     .mem_write_o(mem_write),
-    .mem_write_bh(mem_write_bh),
+ //   .mem_write_bh(mem_write_bh),
+    .data_out_mask(data_out_mask), 
     .data_adr(data_adr), 
     .data_out(data_out),
     .data_in(data_in)
@@ -163,7 +165,7 @@ module riscv_pipeline (
   hazard_unit HU (
 
     .ID_EX_memread(mem_read_hu),
-    .mem_write_bh(mem_write_bh),
+   // .mem_write_bh(mem_write_bh),
     .ID_EX_rd(ID_EX_rd_hu), 
     .IF_ID_rs1(ID_Src1_hu), 
     .IF_ID_rs2(ID_Src2_hu),

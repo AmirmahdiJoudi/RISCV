@@ -9,16 +9,18 @@ module riscv_tb;
     wire [31:0] data_out;
     wire mem_read;
     wire mem_write;
+    wire [3:0] data_out_mask;
 
 
     riscv_pipeline CPU (
         .clk(clk),
         .rst(rst), 
         .inst(inst), 
-        .data_in(data_in),            
+        .inst_adr(inst_adr),            
         .mem_read(mem_read), 
         .mem_write(mem_write),
-        .inst_adr(inst_adr), 
+        .data_out_mask(data_out_mask),
+        .data_in(data_in), 
         .data_adr(data_adr), 
         .data_out(data_out)
     );
@@ -33,6 +35,7 @@ module riscv_tb;
         .d_in(data_out),
         .mrd(mem_read),
         .mwr(mem_write),
+        .data_out_mask(data_out_mask),
         .clk(clk),
         .d_out(data_in)
     );
